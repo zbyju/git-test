@@ -27,3 +27,11 @@ I just made a development branch.
 3. feature
 4. commit
 5. commit
+
+## Squash
+
+1. commit
+2. commit
+3. commit
+4. commit
+5. commit
