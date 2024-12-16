@@ -15,5 +15,5 @@ I just made a development branch.
 ## Fast forward
 
 1. commit
-2. commit
+2. dev
 3. commit
