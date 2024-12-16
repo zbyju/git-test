@@ -11,3 +11,7 @@ I just made a development branch.
 3. commit
 4. commit
 5. commit
+
+## Fast forward
+
+1. commit
