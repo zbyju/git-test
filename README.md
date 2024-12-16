@@ -22,6 +22,6 @@ I just made a development branch.
 
 1. commit
 2. commit
-3. commit
+3. feature
 4. commit
 5. commit
