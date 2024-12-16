@@ -11,9 +11,18 @@ I just made a development branch.
 3. feature
 4. commit
 5. commit
+6. commit
 
 ## Fast forward
 
 1. commit
 2. feature
 3. commit
+
+## Rebase
+
+1. commit
+2. commit
+3. feature
+4. commit
+5. commit
