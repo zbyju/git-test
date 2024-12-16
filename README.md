@@ -41,9 +41,14 @@ I just made a development branch.
 
 
 
-
 # Real life
 
 trying to work on my stuff...
 
 i'm also working here...
+
+# Development
+
+meanwhile development is moving forward.
+
+more development
